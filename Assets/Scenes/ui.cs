@@ -4,9 +4,9 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class ui : MonoBehaviour
 {
-    public GameObject PAUSE;
+   // public GameObject PAUSE;
     public GameObject BUT1;
-    public GameObject BUT2;
+   // public GameObject BUT2;
     void Start()
     {
        
@@ -17,9 +17,9 @@ public class ui : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            BUT1.SetActive(false);
-            BUT2.SetActive(false);
-            PAUSE.SetActive(true);
+            BUT1.SetActive(true);
+            //BUT2.SetActive(false);
+            //PAUSE.SetActive(true);
         }
      
     }
@@ -30,14 +30,20 @@ public class ui : MonoBehaviour
     public void restartgame()
     {
         BUT1.SetActive(true);
-        BUT2.SetActive(true);
-        PAUSE.SetActive(false);
+      //  BUT2.SetActive(true);
+      //  PAUSE.SetActive(false);
     }
     public void pause()
     {
         BUT1.SetActive(false);
-        BUT2.SetActive(false);
-        PAUSE.SetActive(true);
+      //  BUT2.SetActive(false);
+     //   PAUSE.SetActive(true);
+    }
+    public void continuar()
+    {
+        BUT1.SetActive(false);
+        //BUT2.SetActive(false);
+        //PAUSE.SetActive(false);
     }
     public void EXIT()
     {

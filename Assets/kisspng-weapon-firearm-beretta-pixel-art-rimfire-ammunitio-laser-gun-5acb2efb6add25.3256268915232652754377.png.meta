@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 2e532ba96580ee443816141b56a2290d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2724517974996531846
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_0
+  - first:
+      213: 5678641673257708898
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_1
+  - first:
+      213: -8781045680998917642
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_2
+  - first:
+      213: -4396077156899941312
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_3
+  - first:
+      213: 8889953280221434019
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_4
+  - first:
+      213: 8916166534827341867
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_5
+  - first:
+      213: 7077504461447287203
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_6
+  - first:
+      213: 2575075102405876896
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_7
+  - first:
+      213: -3362781215390710084
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_8
+  - first:
+      213: -4736497795204749864
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_9
+  - first:
+      213: 80810059798087099
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_10
+  - first:
+      213: -3190875332284183205
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_11
+  - first:
+      213: -8638113621411587981
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_12
+  - first:
+      213: 333027919150882725
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_13
+  - first:
+      213: -8468457308242479262
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_14
+  - first:
+      213: 1528385250617218577
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_15
+  - first:
+      213: 7857880689611849116
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_16
+  - first:
+      213: 1464646527515530808
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_17
+  - first:
+      213: 8129308270638187494
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_18
+  - first:
+      213: -1463623054886301250
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_19
+  - first:
+      213: 6343220470842070375
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_20
+  - first:
+      213: 7735530630224017561
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_21
+  - first:
+      213: 6205123381492948630
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_22
+  - first:
+      213: 678946960296446317
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_23
+  - first:
+      213: 3486618495971109371
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_24
+  - first:
+      213: -2143156833643284990
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_25
+  - first:
+      213: 8819043932563406519
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_26
+  - first:
+      213: -8398542907363297183
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_27
+  - first:
+      213: -673782466836649248
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_28
+  - first:
+      213: 5267864825224089883
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_29
+  - first:
+      213: -980368684544157434
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_30
+  - first:
+      213: -3206249981499609705
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_31
+  - first:
+      213: 1567212091010068086
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_32
+  - first:
+      213: 1296397238686682538
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_33
+  - first:
+      213: 3616901248107301978
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_34
+  - first:
+      213: 1298219274967415695
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_35
+  - first:
+      213: -6234035033729591244
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_36
+  - first:
+      213: 3015038635178907823
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_37
+  - first:
+      213: 402216804720799365
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_38
+  - first:
+      213: 8782785958644530790
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_39
+  - first:
+      213: -8142764955113434649
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_40
+  - first:
+      213: -3275105980049133434
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_41
+  - first:
+      213: -5063181683754507618
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_42
+  - first:
+      213: -4361593267766592143
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_43
+  - first:
+      213: -4465214000035207500
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_44
+  - first:
+      213: -4452595007823838851
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_45
+  - first:
+      213: -2363157010267098162
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_46
+  - first:
+      213: -8844812987995633669
+    second: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 504
+        width: 128
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a754a2c3651903ad0800000000000000
+      internalID: -2724517974996531846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 494
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d614dd3869ece40800000000000000
+      internalID: 5678641673257708898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 494
+        width: 124
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9d4932a75732680800000000000000
+      internalID: -8781045680998917642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 498
+        width: 128
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04415c10e1ffdf2c0800000000000000
+      internalID: -4396077156899941312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 496
+        width: 128
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0da6948657f5b70800000000000000
+      internalID: 8889953280221434019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_5
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 508
+        width: 120
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28fb9a39369cbb70800000000000000
+      internalID: 8916166534827341867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 498
+        width: 114
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1dec83fc8583260800000000000000
+      internalID: 7077504461447287203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 424
+        width: 122
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acdadc89218cb320800000000000000
+      internalID: 2575075102405876896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 428
+        width: 128
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6c7472d400551d0800000000000000
+      internalID: -3362781215390710084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 416
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5666da954944eb0800000000000000
+      internalID: -4736497795204749864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 416
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb50b8c32581f1100800000000000000
+      internalID: 80810059798087099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_11
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 428
+        width: 120
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d05a09acbb7b3d0800000000000000
+      internalID: -3190875332284183205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_12
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 424
+        width: 128
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3789c429d614f1880800000000000000
+      internalID: -8638113621411587981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_13
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 410
+        width: 102
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af9645c0272f9400800000000000000
+      internalID: 333027919150882725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 342
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26775aa22fef97a80800000000000000
+      internalID: -8468457308242479262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 348
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1165cf6a94ae53510800000000000000
+      internalID: 1528385250617218577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 340
+        width: 128
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d37b7badccc0d60800000000000000
+      internalID: 7857880689611849116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 324
+        width: 106
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836921ab148735410800000000000000
+      internalID: 1464646527515530808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 340
+        width: 128
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3c80d1dca11d070800000000000000
+      internalID: 8129308270638187494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_19
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 336
+        width: 128
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb11e60169a20bbe0800000000000000
+      internalID: -1463623054886301250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_20
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 338
+        width: 88
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76517801965a70850800000000000000
+      internalID: 6343220470842070375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 266
+        width: 128
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998f7a3af102a5b60800000000000000
+      internalID: 7735530630224017561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 260
+        width: 128
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e9b5dd6d60d1650800000000000000
+      internalID: 6205123381492948630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 258
+        width: 128
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d690dc5c9aa1c6900800000000000000
+      internalID: 678946960296446317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_24
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 254
+        width: 128
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf92aa79c05f26030800000000000000
+      internalID: 3486618495971109371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_25
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 250
+        width: 116
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206bdb8f63af142e0800000000000000
+      internalID: -2143156833643284990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_26
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 268
+        width: 128
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be710b3bb9836a70800000000000000
+      internalID: 8819043932563406519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_27
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 248
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168fbbf19b1627b80800000000000000
+      internalID: -8398542907363297183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 178
+        width: 128
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaa0509a6e36a6f0800000000000000
+      internalID: -673782466836649248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 178
+        width: 102
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11d140f5273b1940800000000000000
+      internalID: 5267864825224089883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 190
+        width: 128
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60914d820e70562f0800000000000000
+      internalID: -980368684544157434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_31
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 174
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dec9711ac1183d0800000000000000
+      internalID: -3206249981499609705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_32
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 184
+        width: 128
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e2a54e71bdfb510800000000000000
+      internalID: 1567212091010068086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_33
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 176
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad87b38b6abdf110800000000000000
+      internalID: 1296397238686682538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_34
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 176
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c4a11a580d13230800000000000000
+      internalID: 3616901248107301978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b7ff46d83340210800000000000000
+      internalID: 1298219274967415695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_36
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 108
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43815398a224c79a0800000000000000
+      internalID: -6234035033729591244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 94
+        width: 122
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8dae11aa197d920800000000000000
+      internalID: 3015038635178907823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_38
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 94
+        width: 84
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e63188d06f49500800000000000000
+      internalID: 402216804720799365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_39
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 102
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ebb43db49b2e970800000000000000
+      internalID: 8782785958644530790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_40
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 96
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1d6f06a661ffe80800000000000000
+      internalID: -8142764955113434649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_41
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 88
+        width: 128
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680f961a67c7c82d0800000000000000
+      internalID: -3275105980049133434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 128
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e926c82a517fbb9b0800000000000000
+      internalID: -5063181683754507618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 22
+        width: 128
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d790c18028873c0800000000000000
+      internalID: -4361593267766592143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_44
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 10
+        width: 106
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6ecc1568f5802c0800000000000000
+      internalID: -4465214000035207500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_45
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 16
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d718bf56e643532c0800000000000000
+      internalID: -4452595007823838851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_46
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 20
+        width: 128
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec33e8e3831643fd0800000000000000
+      internalID: -2363157010267098162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-weapon-firearm-beretta-pixel-art-rimfire-ammunitio-laser-gun-5acb2efb6add25.3256268915232652754377_47
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 20
+        width: 122
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf742c10379e04580800000000000000
+      internalID: -8844812987995633669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
